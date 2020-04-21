@@ -17,7 +17,10 @@ form {
     background: rgb(185, 204, 152);
     border: 1px solid darkolivegreen;
 }
-
+form p {
+    color: red;
+    margin: 0px;
+}
 .task_input {
     width: 73%;
     height: 15px;
@@ -38,6 +41,7 @@ form {
 .add_btn:hover {
     background: rgb(108, 121, 88);
     color: 2px solid rgb(31, 39, 18);
+    
 
 
 }
